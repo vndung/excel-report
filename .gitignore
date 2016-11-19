@@ -1,5 +1,5 @@
 excel-report.iml
-dependency-reduced-pom.xml
-EmployeeReport.xlsx
+./dependency-reduced-pom.xml
+./EmployeeReport.xlsx
 .idea/
 .git/
